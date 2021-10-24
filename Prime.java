@@ -72,6 +72,8 @@ Prime pd = new Prime();
 int[] numbers = {6, 29, 28, 33, 11, 100, 101, 43, 89};
 System.out.println(pd.isPrime(7));
 System.out.println(pd.isPrime(28));
+  
+// Use onlyPrimes method  
 System.out.println(pd.onlyPrimes(numbers)); 
    
 // Use the primeCounter method
